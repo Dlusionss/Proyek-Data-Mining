@@ -6,4 +6,4 @@ Anggota :
 2. Raihan Fajar Ramadhan (2000018423)
 3. Irham Sidi Putra Wiratma (2000018443)
 
-Studi Kasus : Klasifikasi Tingkat Keparahan Penyakit Diabetes Berdasarkan Tingkat Glukosa, Tekanan Darah, dan Insulin
+Studi Kasus : Klasifikasi Tingkat Keparahan Penyakit Diabetes Berdasarkan Glukosa, Tekanan Darah, dan Insulin
